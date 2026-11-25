@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Entry note: one fortune line for the "Fortune Cookies for Machines"
+# contest. The program only writes a fixed string to entry.txt, so
+# repeated runs always produce identical bytes.
 """Emit this entry's single fortune line into entry.txt.
 
 Written for the make.fun contest "Fortune Cookies for Machines".
